@@ -2,7 +2,7 @@
 
 ## Our GitHub-Hosted Open Source Initiatives
 
-Below is a curated list of the open-source projects actively maintained and championed by our company.
+Open source projects maintained by Mitsubishi Electric teams.
 
 - **PELCA** — Power Electronics Life Cycle Assessment
   *Mitsubishi Electric R&D Centre Europe*
