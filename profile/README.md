@@ -4,7 +4,7 @@ Open source projects maintained by Mitsubishi Electric teams.
 
 - **PELCA** — Power Electronics Life Cycle Assessment
   *Mitsubishi Electric R&D Centre Europe*
-  [Repository](https://github.com/merce-fra/PELCA) | [Website](https://merce-pelca.github.io/) | [Paper](https://hal.science/hal-04368830/document)
+  [Repository](https://github.com/merce-fra/PELCA) | [Website](https://merce-pelca.github.io/)
     - [GitHub](https://github.com/merce-fra/PELCA)
     - [Official Site](https://merce-pelca.github.io/)
     - [Document](https://hal.science/hal-05176394/document)
