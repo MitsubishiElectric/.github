@@ -7,7 +7,6 @@ Open source projects maintained by Mitsubishi Electric teams.
   [Repository](https://github.com/merce-fra/PELCA) | [Website](https://merce-pelca.github.io/)
     - [GitHub](https://github.com/merce-fra/PELCA)
     - [Official Site](https://merce-pelca.github.io/)
-    - [Document](https://hal.science/hal-05176394/document)
 - **MELFA ROS2 Driver** — ROS 2 driver for Mitsubishi Electric industrial and collaborative robots
   *Mitsubishi Electric Asia*
   [Repository](https://github.com/Mitsubishi-Electric-Asia/melfa_ros2_driver) | [Announcement](https://discourse.openrobotics.org/t/official-ros2-driver-release-for-mitsubishi-electric-industrial-robot-melfa-melfa-ros2-driver/40133)
