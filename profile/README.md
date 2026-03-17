@@ -1,7 +1,5 @@
 # Mitsubishi Electric Open Source
 
-## Our GitHub-Hosted Open Source Initiatives
-
 Open source projects maintained by Mitsubishi Electric teams.
 
 - **PELCA** — Power Electronics Life Cycle Assessment
